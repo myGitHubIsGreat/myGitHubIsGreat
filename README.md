@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @myGitHubIsGreat.
+- 👀 I’m interested in web and app developmnent.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on full stack development.
+- 📫 You can reach me at moshoodadekunle001@gmail.com.
